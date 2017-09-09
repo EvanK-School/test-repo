@@ -2,4 +2,5 @@
 testing-markdown-stuff
 [link to documentation](DOCS.md)
 
-[//]: # (test-comment - this works)
+[//]: # (test-comment - this works
+but does this)
