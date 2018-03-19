@@ -8,6 +8,14 @@ but does this)
 [//]: # (test-comment - this works
 but does this) but not this 
 
+<!--this comment works and
+should be multi-line-->
+
+```markdown
+<!--this comment works and
+should be multi-line-->
+```
+
 ### What about lists (error(?) in grip)
 
 - Foo
